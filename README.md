@@ -6,8 +6,8 @@
 - 🥅 My next goal will be to learn Machine and Deep learning
 - 💞️ I’m looking to tranform the world through data
 
-### Talk with me, I would like to meet you:
-[View LinkedIn Profile](https://www.linkedin.com/in/frank-okome-116a68b8/)
+### Interact with my Portfolio :
+[View Website](https://frank-analyst.github.io/FrankTheAnalyst.github.io/)
 
 <br />
 
