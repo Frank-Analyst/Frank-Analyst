@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Frank!
 
-### I drive business transformation through Analytics an Insight 🎆
+### I drive business transformation through Analytics and Insight 🎆
 
 - 👀 I’m interested in driving Businesses forward with reliable insights
 - 🥅 My next goal will be to learn Machine and Deep learning
