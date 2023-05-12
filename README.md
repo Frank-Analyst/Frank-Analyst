@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Frank!
 
-### I drive business transformation through data and analytics 🎆
+### I drive business transformation through Analytics an Insight 🎆
 
 - 👀 I’m interested in driving Businesses forward with reliable insights
 - 🥅 My next goal will be to learn Machine and Deep learning
@@ -29,4 +29,4 @@
 
 | Company                       | Job Title                                          | Sector     |Duration            |
 | ------------------------------| ---------------------------------------------------|------------|--------------------|
-| Real time Analytics           | Strategy and Analytics Manager                     | Consultant |Feb 2023 - Present  |
+| Real time Analytics           | Data Analytics and Visualisation Consultant        | Business   |Feb 2023 - Present  |
