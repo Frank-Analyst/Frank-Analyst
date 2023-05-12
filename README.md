@@ -13,7 +13,7 @@
 
 ### Languages and Data Analytics Tools:
 - [x] SQL
-- [x] R Programming
+- [x] Python Programming
 - [x] Microsoft Excel
 
 <br />
